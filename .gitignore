@@ -2,3 +2,5 @@
 node_modules/
 *.log
 haters/
+js30.sublime-project
+js30.sublime-workspace
